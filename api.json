@@ -1,0 +1,86 @@
+[
+    {
+      "precio": 40.00,
+      "id": 1,
+      "title": "Palomitas de caramelo",
+      "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/caramelo.png"
+    },
+
+    {
+      "precio": 40.00,
+      "id": 2,
+      "title": "Chocolates",
+      "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/choc2.png"
+    },
+    
+    {
+        "precio": 25.00,
+        "id": 3,
+        "title": "Bolitas de chocolate",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/chocolate.png"
+    },
+
+    {
+        "precio": 15.00,
+        "id": 4,
+        "title": "Gomitas",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/gomitas.png"
+    },
+
+    {
+        "precio": 15.00,
+        "id": 5,
+        "title": "Gomitas agridulces",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/gom3.png"
+    },
+
+    {
+        "precio": 30.00,
+        "id": 6,
+        "title": "Hot Dog",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/hot%20dog.png"
+    },
+
+    {
+        "precio": 35.00,
+        "id": 7,
+        "title": "Icee",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/icee.png"
+    },
+
+    {
+        "precio": 30.00,
+        "id": 8,
+        "title": "M&Ms",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/mms.png"
+    },
+
+    {
+        "precio": 25.00,
+        "id": 9,
+        "title": "Nachos",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/nachos.png"
+    },
+
+    {
+        "precio": 35.00,
+        "id": 10,
+        "title": "Paletas",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/paleta.png"
+    },
+
+    {
+        "precio": 30.00,
+        "id": 11,
+        "title": "Palomitas",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/palomitas.png"
+    },
+
+    {
+        "precio": 25.00,
+        "id": 12,
+        "title": "Soda",
+        "thumbnailUrl": "https://lbrtslvyr10.000webhostapp.com/fotos/soda.png"
+    }
+
+]
